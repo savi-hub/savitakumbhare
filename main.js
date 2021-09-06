@@ -9,7 +9,7 @@ img.src=src;
 };
 
 let imagePath =(frameNumber,animation)=>{
-return "/savitakumbhare/Images/"+animation+"/" + frameNumber+".png";
+return "Images/"+animation+"/" + frameNumber+".png";
 };
 
 let frames={
